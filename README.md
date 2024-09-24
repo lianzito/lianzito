@@ -1,6 +1,6 @@
 Salve
 
-<img src="https://camo.githubusercontent.com/b869991abc6bdc39f28103d4cbf3da0ea3f0af8428fc6ca3acc6ff19d2800752/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4c616c6c696e646f2673686f775f69636f6e733d74727565267468656d653d7261646963616c266c6f63616c653d70742d6272" alt="Anurag's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Lallindo&amp;show_icons=true&amp;theme=radical&amp;locale=pt-br" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/b869991abc6bdc39f28103d4cbf3da0ea3f0af8428fc6ca3acc6ff19d2800752/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4c616c6c696e646f2673686f775f69636f6e733d74727565267468656d653d7261646963616c266c6f63616c653d70742d6272" alt="Anurag's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=lianzito&amp;show_icons=true&amp;theme=radical&amp;locale=pt-br" style="max-width: 100%;">
 
 <!--
 **lianzito/lianzito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
