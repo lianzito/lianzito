@@ -1,7 +1,7 @@
 Salve <br>
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lianzito&theme=calm&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lianzito&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lianzito&layout=compact)]
 
 
 
