@@ -1,6 +1,10 @@
 Salve <br>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lianzito&theme=calm&show_icons=true)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lianzito&theme=calm&show_icons=true)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lianzito&layout=compact)
 
 
