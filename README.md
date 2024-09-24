@@ -1,5 +1,5 @@
-Salve
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lianzito&theme=dark&show_icons=true)
+Salve <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lianzito&theme=calm&show_icons=true)
 
 
 
